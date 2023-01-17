@@ -19,5 +19,5 @@ We leveraged Tweepy as the Tweet crawler and built our own crawler for Youtube w
 2. Train API Recognition model and infer the results with the target texts (i.e., Twitter discussions) following https://github.com/soarsmu/Library-Recognition-In-Tweets.
 3. Train Sentiment Analysis model and infer the results with the target texts following https://github.com/soarsmu/SA4SE.
 
-## Maintance
-@FalconLK Kisub Kim
+## Data
+By following Twitter data sharing recommendation and policy, check here https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases, we can only share the tweet ids.
