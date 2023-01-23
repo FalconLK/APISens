@@ -2,7 +2,7 @@
 This repository shares the code and demo video for APISens.
 
 ## What it is?
-APISens is a sentiment scoring tool for software APIs which aims to support developers to determine the most appropriate API for a certain task. 
+APISens is a sentiment scoring tool for software APIs which aims to support developers to determine the most appropriate API for a certain task. Please check the video named "APISens.mp4".
 
 ## How it works?
 It first crawls the dataset from two different sources (i.e., Twitter and Youtube).
